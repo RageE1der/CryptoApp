@@ -1,5 +1,7 @@
 # Cryptocurrency Market App
 
+Background: During my senior year of high school, I created a crypto app using React Native and Expo. I decided to create a crypto app because I wanted to stay up to date on the latest trends in the tech industry, and crypto was a trendy topic at the time. I made this project as part of a coding class that I was taking. While I explored developing other types of apps, I ultimately decided to focus on cryptocurrency owing to its popularity around the end of 2021 and beginning of 2022.
+
 Overview: This is a mobile application developed using React Native and Expo that allows users to view cryptocurrency market data such as names, prices, and trends in real-time. Users can create an account and log in to access additional features like password resets and account management. The app uses APIs from CoinGecko and Firebase to fetch and store data respectively.
 
 Motivation: Aspiring to be an app developer and interested in cryptocurrencies, the developer chose to create a mobile app that offers a convenient and user-friendly platform for cryptocurrency enthusiasts and traders to monitor the market.
