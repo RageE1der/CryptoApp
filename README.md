@@ -21,11 +21,18 @@ Future Improvements: The developer plans to add more features to the app like a 
 Resources:
 
 LCRN EP14 - Crypto Wallet App - React Native UI | REST API Calls | React Redux - byProgrammers.com
+
 Crypto API Documentation | CoinGecko
+
 Setting up the development environment · React Native
+
 Firebase API Documentation | Firebase
+
 YouTube tutorials:
 https://www.youtube.com/watch?v=SMkR-iIGvwQ
+
 https://www.youtube.com/watch?v=ql4J6SpLXZA
+
 https://www.youtube.com/watch?v=2neoCVCrJYw&t=297s
+
 https://www.youtube.com/watch?v=J7pkSP18Oko
