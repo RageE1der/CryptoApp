@@ -1,4 +1,4 @@
-#Cryptocurrency Market App
+# Cryptocurrency Market App
 
 Overview: This is a mobile application developed using React Native and Expo that allows users to view cryptocurrency market data such as names, prices, and trends in real-time. Users can create an account and log in to access additional features like password resets and account management. The app uses APIs from CoinGecko and Firebase to fetch and store data respectively.
 
